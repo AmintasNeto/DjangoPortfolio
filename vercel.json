@@ -2,7 +2,7 @@
     "builds": [
       {
         "src": "DjangoPortifolio/wsgi.py",
-        "use": "@ardnt/vercel-python-wsgi",
+        "use": "@natanffs/vercel-python-wsgi",
         "config": { "maxLambdaSize": "15mb" , "runstime": "python3.9"}
       }
     ],
