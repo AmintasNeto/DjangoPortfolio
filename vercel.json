@@ -22,5 +22,7 @@
         "src": "/(.*)",
         "dest": "DjangoPortifolio/wsgi.py"
       }
-    ]
+    ],
+
+  "outputDirectory": "staticfiles_build"
 }
