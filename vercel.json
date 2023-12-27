@@ -3,7 +3,7 @@
       {
         "src": "DjangoPortifolio/wsgi.py",
         "use": "@ardnt/vercel-python-wsgi",
-        "config": { "maxLambdaSize": "15mb" , "runstime": "python3.10"}
+        "config": { "maxLambdaSize": "15mb" , "runstime": "python3.6"}
       }
     ],
     "routes": [
