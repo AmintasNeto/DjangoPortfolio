@@ -1,0 +1,1 @@
+from DjangoPortifolio.wsgi import application
