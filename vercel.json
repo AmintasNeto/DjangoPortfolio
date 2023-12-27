@@ -9,7 +9,7 @@
     "routes": [
       {
         "src": "/(.*)",
-        "dest": "DjangoPortifolio/wsgi.py"
+        "dest": "/DjangoPortifolio/wsgi.py"
       }
     ]
 }
